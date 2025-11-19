@@ -1,0 +1,11 @@
+#Environments
+.env
+#virtual environments
+.venv
+#data
+data/*.csv
+#python version
+.python-version
+#adding Datastore files
+.DS_Store
+#new environments
